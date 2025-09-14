@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my profile.
 
 <!--
 **minjiyeon12/minjiyeon12** is a ✨ _interesting_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
